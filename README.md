@@ -1,4 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+## NAME:YUGABHARATHI M
+## REGISTER NO:212224230314
 ## AIM
 To write a python program to perform sliding window protocol
 ## ALGORITHM:
